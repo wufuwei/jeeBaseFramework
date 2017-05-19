@@ -1,0 +1,8 @@
+本sql脚本是navicat 导出的
+
+mysql版本为5.5  5.6  5.7 
+
+低版本的直接导入会报错，有两张表用到外键关联，注意调整
+
+sys_role_fhbutton（有外键）
+oa_datajur（有外键）
